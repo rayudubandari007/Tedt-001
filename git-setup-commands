@@ -1,0 +1,22 @@
+ 1  yum install git -y
+    2  git --version
+    3  ls
+    4  mkdir gitp1
+    5  cd gitp1/
+    6  git init .
+    7  git branch
+    8  git init
+    9  git branch
+   10  touch f1 f2
+   11  git add f1
+   12  git staus
+   13  git status
+   14  git commit -m "first commit"
+   15  git status
+   16  git log
+   17  git remote add origin https://github.com/rayudubandari007/Tedt-001.git
+   18  git -v
+   19  git log
+   20  git push origin master
+   21  history
+
